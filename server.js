@@ -26,4 +26,3 @@ app.listen(PORT, () => {
     console.log(`App running on port ${PORT}!`);
 });
 
-Log into heroku and add the app "mLab Mongo"
